@@ -12,11 +12,11 @@ I'm Musa Touray, an automation and analytics engineer. I do most of my work with
 - <a href="https://app.powerbi.com/view?r=eyJrIjoiODk4YTJlODctMDQ2Ny00ZWVmLTk2MzctYjlkY2EyZGE1ZDhmIiwidCI6ImU3ZmRiMmEyLTUzODAtNDBmMC04MmQ4LWEzYjU0YzFmODE3ZiJ9">Real-Time Live TV Presidential Elections Report </a>
 
 ## Certifications
+- 💎 DP700 Fabric Data Engineer Associate
 - 💎 DP600 Fabric Analytics Engineer
 - 💎 PL300 Power BI Data Analyst
 - 💎 Power Platform App Maker
 
-🌱 I’m currently preparing for DP700 certification
 
 ## 🌐 Let's connect on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/musa-touray/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/amigomusa)
