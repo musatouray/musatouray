@@ -4,7 +4,7 @@ I'm Musa Touray, a data engineer and analytics engineer. I do most of my work wi
 
 ## 💻 Tech Stack:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Microsoft Fabric](https://raw.githubusercontent.com/FabricTools/fabric-icons/main/node_modules/%40fabric-msft/svg-icons/svg/fabric_32_color.svg)[](https://img.shields.io/badge/microsoft_fabric-%230072C6.svg?style=for-the-badge&logo=microsoftfabric&logoColor=white)
+![Microsoft Fabric](https://raw.githubusercontent.com/FabricTools/fabric-icons/main/node_modules/%40fabric-msft/svg-icons/svg/fabric_32_color.svg)[Microsoft Fabric](https://img.shields.io/badge/microsoft_fabric-%230072C6.svg?style=for-the-badge&logo=microsoftfabric&logoColor=white)
 
 ## My work
 - <a href="https://app.powerbi.com/view?r=eyJrIjoiMWYwMTA1NjMtMmZiYy00YmYzLTgxN2UtMjI3MjFhMzY0MGQ4IiwidCI6ImU3ZmRiMmEyLTUzODAtNDBmMC04MmQ4LWEzYjU0YzFmODE3ZiJ9"> E-Commerce Retail Performance Analytics </a>
@@ -17,7 +17,7 @@ I'm Musa Touray, a data engineer and analytics engineer. I do most of my work wi
 - 💎 DP600 Fabric Analytics Engineer
 - 💎 PL300 Power BI Data Analyst
   
-- ![DP-700](/badges/dp700.svg)[](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/899D4BE1D3B96319?sharingId=8152FDFBCA0A470C) **Fabric Data Engineer**
+- ![DP-700](/badges/dp700.svg)[Fabric Data Engineer](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/899D4BE1D3B96319?sharingId=8152FDFBCA0A470C)
 
 - ![DP-600](https://githubusercontent.com)[](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/5638030E04B976C4?sharingId=8152FDFBCA0A470C) **Fabric Analytics Engineer**
 
