@@ -24,7 +24,7 @@ I'm Musa Touray, a data engineer and analytics engineer. I do most of my work wi
 
 - ![DP-600](/badges/dp600.svg)[ Fabric Analytics Engineer](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/5638030E04B976C4?sharingId=8152FDFBCA0A470C)
 
-- ![PL-300](/badges/pl300.svg)[](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/C6B788CBFBA3A25?sharingId=8152FDFBCA0A470C) **Power BI Data Analyst**
+- ![PL-300](/badges/pl300.svg)[ Power BI Data Analyst](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/C6B788CBFBA3A25?sharingId=8152FDFBCA0A470C)
 
 
 
