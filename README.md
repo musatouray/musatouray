@@ -17,11 +17,11 @@ I'm Musa Touray, a data engineer and analytics engineer. I do most of my work wi
 - 💎 DP600 Fabric Analytics Engineer
 - 💎 PL300 Power BI Data Analyst
   
-- [![Fabric Data Engineer (DP-700)](https://githubusercontent.com)](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/899D4BE1D3B96319?sharingId=8152FDFBCA0A470C) **Fabric Data Engineer (DP-700)**
+- [![DP-700](https://githubusercontent.com)](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/899D4BE1D3B96319?sharingId=8152FDFBCA0A470C) **Fabric Data Engineer**
 
-- [![Fabric Analytics Engineer (DP-600)](https://githubusercontent.com)](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/5638030E04B976C4?sharingId=8152FDFBCA0A470C) **Fabric Analytics Engineer (DP-600)**
+- [![DP-600](https://githubusercontent.com)](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/5638030E04B976C4?sharingId=8152FDFBCA0A470C) **Fabric Analytics Engineer**
 
-- [![Power BI Data Analyst (PL-300)](https://githubusercontent.com)](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/C6B788CBFBA3A25?sharingId=8152FDFBCA0A470C) **Power BI Data Analyst (PL-300)**
+- [![PL-300](https://githubusercontent.com)](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/C6B788CBFBA3A25?sharingId=8152FDFBCA0A470C) **Power BI Data Analyst**
 
 
 - <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMDAgMzAwIj48cGF0aCBkPSJNMjgzLjM4IDExOC40N2ExNi40NCAxNi40NCAwIDAwLTEwLjc1LTYuNjlxLTExLjI2LTEuOTUtMjIuNTYtMy41MlY1NC40M0EyMS41NCAyMS41NCAwIDAwMjM1LjQ5IDM0bC0uMTYtLjA1aC0uMTdsLTc0Ljc0LTIyLjYxQTMyLjYzIDMyLjYzIDAgMDAxNTAgOS42NGEzMi41OCAzMi41OCAwIDAwLTEwLjQxIDEuN0w244NCAzMy45M2gtLjE3bC0uMTYuMDVhMjEuNTQgMjEuNTQgMCAwMC0xNC41OCAyMC40djUzLjgzcS0xMS4zIDEuNTgtMjIuNTYgMy41MmExNi40NCAxNi40NCAwIDAwLTEwLjc1IDYuNjkgMTMuNDggMTMuNDggMCAwMC0yLjI1IDEwLjI1bDExIDU3LjM5YTE0LjY0IDE0LjY0IDAgMDAxNi44MiAxMS40N2MyLjYtLjQ1IDUuMi0uODcgNy44MS0xLjI5LjE1IDE0LjMyIDUuNjIgMjguMjMgMTYuMyA0MS4zNiA4LjE1IDEwIDE5LjM3IDE5LjYyIDMzLjM0IDI4LjUyYTI0NC42NiAyNDQuNjYgMCAwMDQ3LjE4IDIzLjA3bDMuMjggMS4xMiAzLjI3LTEuMTVhMjUwLjIzIDI1MC4yMyAwIDAwNDcuMTItMjMuMzVjMTQtOSAyNS4xNy0xOC41NiAzMy4zLTI4LjUzIDEwLjY4LTEzLjA5IDE2LjE2LTI2LjkgMTYuMzEtNDEgMi42MS40MiA1LjIxLjg0IDcuODEgMS4yOWExNC45MiAxNC45MiAwIDAwMi40OC4yMSAxNC42MiAxNC42MiAwIDAwMTQuMzQtMTEuNjlsMTAuOTUtNTcuMzdhMTMuNDkgMTMuNDkgMCAwMC0yLjMtMTAuMjV6IiBmaWxsPSIjMDAyMDUwIi8+PC9zdmc+" width="35" height="35" style="vertical-align: middle; padding-right: 10px;"/> **[Fabric Data Engineer (DP-700)](https://microsoft.com)**
