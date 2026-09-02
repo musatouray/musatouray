@@ -16,17 +16,8 @@ I'm Musa Touray, a data engineer and analytics engineer. I do most of my work wi
 - 💎 DP700 Fabric Data Engineer Associate
 - 💎 DP600 Fabric Analytics Engineer
 - 💎 PL300 Power BI Data Analyst
-<p align="center">
-  <a href="https://microsoft.com" target="_blank">
-    <img src="https://shields.io" alt="DP-700 Badge" />
-  </a>
-  <a href="https://microsoft.com" target="_blank">
-    <img src="https://shields.io" alt="DP-600 Badge" />
-  </a>
-  <a href="https://microsoft.com" target="_blank">
-    <img src="https://shields.io" alt="PL-300 Badge" />
-  </a>
-</p>
+[![DP-700 Fabric Data Engineer](https://shields.io)](https://microsoft.com) [![DP-600 Fabric Analytics Engineer](https://shields.io)](https://microsoft.com) [![PL-300 Power BI Data Analyst](https://shields.io)](https://microsoft.com)
+
 
 
 
