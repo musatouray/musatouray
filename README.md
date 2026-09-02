@@ -16,7 +16,7 @@ I'm Musa Touray, a data engineer and analytics engineer. I do most of my work wi
 - <a href="https://app.powerbi.com/view?r=eyJrIjoiODk4YTJlODctMDQ2Ny00ZWVmLTk2MzctYjlkY2EyZGE1ZDhmIiwidCI6ImU3ZmRiMmEyLTUzODAtNDBmMC04MmQ4LWEzYjU0YzFmODE3ZiJ9">Real-Time Live TV Presidential Elections Report </a>
 
 ## Certifications
-- 💎 ![DP700](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/899D4BE1D3B96319?sharingId=8152FDFBCA0A470C) Fabric Data Engineer Associate
+- 💎 [DP700](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/899D4BE1D3B96319?sharingId=8152FDFBCA0A470C) Fabric Data Engineer Associate
 - 💎 DP600 Fabric Analytics Engineer
 - 💎 PL300 Power BI Data Analyst
   
