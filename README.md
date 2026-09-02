@@ -16,7 +16,35 @@ I'm Musa Touray, a data engineer and analytics engineer. I do most of my work wi
 - 💎 DP700 Fabric Data Engineer Associate
 - 💎 DP600 Fabric Analytics Engineer
 - 💎 PL300 Power BI Data Analyst
-[![DP-700 Fabric Data Engineer](https://shields.io)](https://microsoft.com) [![DP-600 Fabric Analytics Engineer](https://shields.io)](https://microsoft.com) [![PL-300 Power BI Data Analyst](https://shields.io)](https://microsoft.com)
+  
+<div style="display: flex; flex-direction: column; gap: 15px; margin: 20px 0;">
+
+  <!-- DP-700 Line -->
+  <div style="display: flex; align-items: center; gap: 15px;">
+    <a href="https://microsoft.com" target="_blank">
+      <img src="./badges/dp700.svg" alt="DP-700 Badge" width="60" height="60" style="display: block;" />
+    </a>
+    <strong>Fabric Data Engineer (DP-700)</strong>
+  </div>
+
+  <!-- DP-600 Line -->
+  <div style="display: flex; align-items: center; gap: 15px;">
+    <a href="https://microsoft.com" target="_blank">
+      <img src="./badges/dp600.svg" alt="DP-600 Badge" width="60" height="60" style="display: block;" />
+    </a>
+    <strong>Fabric Analytics Engineer (DP-600)</strong>
+  </div>
+
+  <!-- PL-300 Line -->
+  <div style="display: flex; align-items: center; gap: 15px;">
+    <a href="https://microsoft.com" target="_blank">
+      <img src="./badges/pl300.svg" alt="PL-300 Badge" width="60" height="60" style="display: block;" />
+    </a>
+    <strong>Power BI Data Analyst (PL-300)</strong>
+  </div>
+
+</div>
+
 
 
 
