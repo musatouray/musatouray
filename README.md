@@ -20,9 +20,9 @@ I'm Musa Touray, a data engineer and analytics engineer. I do most of my work wi
 - 💎 [DP600](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/5638030E04B976C4?sharingId=8152FDFBCA0A470C) Fabric Analytics Engineer
 - 💎 [PL300](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/C6B788CBFBA3A25?sharingId=8152FDFBCA0A470C) Power BI Data Analyst
   
-- [DP-700](./badges/dp700.svg)[Fabric Data Engineer](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/899D4BE1D3B96319?sharingId=8152FDFBCA0A470C)
+- ![DP-700](./badges/dp700.svg)[ Fabric Data Engineer](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/899D4BE1D3B96319?sharingId=8152FDFBCA0A470C)
 
-- [DP-600](/badges/dp600.svg)[Fabric Analytics Engineer](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/5638030E04B976C4?sharingId=8152FDFBCA0A470C)
+- ![DP-600](/badges/dp600.svg)[ Fabric Analytics Engineer](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/5638030E04B976C4?sharingId=8152FDFBCA0A470C)
 
 - ![PL-300](https://githubusercontent.com)[](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/C6B788CBFBA3A25?sharingId=8152FDFBCA0A470C) **Power BI Data Analyst**
 
