@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Musa Touray, a data engineer and analytics engineer. I do most of my work with the Microsoft BI stack: Fabric -  OneLake, Lakehouse, Warehouse, crafting SQL and PySpark notebooks, ADF Pipelines, Power BI, and AI with Copilot and Claude Code.
+I'm Musa Touray, a data engineer and analytics engineer. I do most of my work with the Microsoft data stack: Fabric -  OneLake, Lakehouse, Warehouse, crafting SQL and PySpark notebooks, ADF Pipelines, Power BI, and AI with Copilot and Claude Code.
 
 ## 💻 Tech Stack:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -16,6 +16,17 @@ I'm Musa Touray, a data engineer and analytics engineer. I do most of my work wi
 - 💎 DP700 Fabric Data Engineer Associate
 - 💎 DP600 Fabric Analytics Engineer
 - 💎 PL300 Power BI Data Analyst
+<p align="center">
+  <a href="https://microsoft.com" target="_blank">
+    <img src="https://shields.io" alt="DP-700 Badge" />
+  </a>
+  <a href="https://microsoft.com" target="_blank">
+    <img src="https://shields.io" alt="DP-600 Badge" />
+  </a>
+  <a href="https://microsoft.com" target="_blank">
+    <img src="https://shields.io" alt="PL-300 Badge" />
+  </a>
+</p>
 
 
 
