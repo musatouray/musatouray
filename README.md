@@ -4,8 +4,8 @@ I'm Musa Touray, a data engineer and analytics engineer. I do most of my work wi
 
 ## 💻 Tech Stack:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Microsoft Fabric](https://github.com/FabricTools/fabric-icons/raw/main/node_modules/@fabric-msft/svg-icons/svg/fabric_24_color.svg)**Microsoft Fabric** 
-![Data Factory](https://github.com/FabricTools/fabric-icons/raw/main/node_modules/@fabric-msft/svg-icons/svg/data_factory_24_color.svg)**Data Factory**
+![Microsoft Fabric](https://github.com/FabricTools/fabric-icons/raw/main/node_modules/@fabric-msft/svg-icons/svg/fabric_16_color.svg)**Microsoft Fabric** 
+![Data Factory](https://github.com/FabricTools/fabric-icons/raw/main/node_modules/@fabric-msft/svg-icons/svg/data_factory_16_color.svg)**Data Factory**
 
 ## My work
 - <a href="https://app.powerbi.com/view?r=eyJrIjoiMWYwMTA1NjMtMmZiYy00YmYzLTgxN2UtMjI3MjFhMzY0MGQ4IiwidCI6ImU3ZmRiMmEyLTUzODAtNDBmMC04MmQ4LWEzYjU0YzFmODE3ZiJ9"> E-Commerce Retail Performance Analytics </a>
