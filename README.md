@@ -17,43 +17,12 @@ I'm Musa Touray, a data engineer and analytics engineer. I do most of my work wi
 - 💎 DP600 Fabric Analytics Engineer
 - 💎 PL300 Power BI Data Analyst
   
-<table>
-  <!-- DP-700 Line -->
-  <tr>
-    <td width="70" align="center" valign="middle">
-      <a href="https://microsoft.com" target="_blank">
-        <img src="badges/dp700.svg" alt="DP-700 Badge" width="60" height="60" />
-      </a>
-    </td>
-    <td valign="middle">
-      <strong>Fabric Data Engineer (DP-700)</strong>
-    </td>
-  </tr>
-  
-  <!-- DP-600 Line -->
-  <tr>
-    <td width="70" align="center" valign="middle">
-      <a href="https://microsoft.com" target="_blank">
-        <img src="badges/dp600.svg" alt="DP-600 Badge" width="60" height="60" />
-      </a>
-    </td>
-    <td valign="middle">
-      <strong>Fabric Analytics Engineer (DP-600)</strong>
-    </td>
-  </tr>
-  
-  <!-- PL-300 Line -->
-  <tr>
-    <td width="70" align="center" valign="middle">
-      <a href="https://microsoft.com" target="_blank">
-        <img src="badges/pl300.svg" alt="PL-300 Badge" width="60" height="60" />
-      </a>
-    </td>
-    <td valign="middle">
-      <strong>Power BI Data Analyst (PL-300)</strong>
-    </td>
-  </tr>
-</table>
+- [![DP-700](https://githubusercontent.com)](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/899D4BE1D3B96319?sharingId=8152FDFBCA0A470C) **Fabric Data Engineer (DP-700)**
+
+- [![DP-600](https://githubusercontent.com)](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/5638030E04B976C4?sharingId=8152FDFBCA0A470C) **Fabric Analytics Engineer (DP-600)**
+
+- [![PL-300](https://githubusercontent.com)](https://learn.microsoft.com/api/credentials/share/en-gb/MusaTouray-8407/C6B788CBFBA3A25?sharingId=8152FDFBCA0A470C) **Power BI Data Analyst (PL-300)**
+
 
 
 
